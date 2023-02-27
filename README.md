@@ -7,7 +7,7 @@
 ![script](https://github.com/gabieng/Gamadataacademy1/blob/main/Sem%20t%C3%ADtulo1.jpg)
 
 ## Imagem da importação
-![Importação](https://github.com/gabieng/Gamadataacademy1/blob/main/Sem%20t%C3%ADtulo1.jpg](https://github.com/gabieng/Gamadataacademy1/blob/main/Sem%20t%C3%ADtulo2.jpg)
+![Importação](https://github.com/gabieng/Gamadataacademy1/blob/main/Sem%20t%C3%ADtulo2.jpg)
 
 ## Imagem do Dashboard
 ![Dashboard](https://github.com/gabieng/Gamadataacademy1/blob/main/Sem%20t%C3%ADtulo3.jpg)
